@@ -1,0 +1,35 @@
+.message {
+    font-weight: 600;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.encryption {
+    text-align: center;
+    border-radius: 12px;
+    font-size: x-large;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-color: black;
+    border: 3px solid mediumblue;
+}
+
+.decryption {
+    text-align: center;
+    border-radius: 12px;
+    font-size: x-large;
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration-color: black;
+    border: 3px solid darkviolet;
+}
+
+.div {
+    
+}
+

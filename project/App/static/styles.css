@@ -3,7 +3,7 @@
     color: black;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
-    font-size: large;
+    font-size: xx-large;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -16,7 +16,7 @@
     background-color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration-color: black;
-    border: 3px solid mediumblue;
+    border: 2px solid mediumblue;
 }
 
 .decryption {
@@ -26,10 +26,36 @@
     background-color: white;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     text-decoration-color: black;
-    border: 3px solid darkviolet;
+    border: 2px solid darkviolet;
 }
 
-.div {
-    
+.subMessage {
+    font-weight: 400;
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+}
+#blue{
+    color:mediumblue;
+}
+#violet{
+    color:blueviolet;
 }
 
+a:link {
+    padding: 50px;
+    background-color: transparent;
+    text-decoration: none;
+}
+#encryptLink a:link{
+    color:mediumblue;
+}
+#decryptLink a:link{
+    color:blueviolet;
+}
+#homeLink a:link{
+    color: slategray;
+}

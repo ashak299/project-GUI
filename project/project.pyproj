@@ -45,6 +45,8 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="App\static\styles.css" />
+    <Content Include="App\templates\App\DecryptPage.html" />
+    <Content Include="App\templates\App\EncryptPage.html" />
     <Content Include="App\templates\App\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
